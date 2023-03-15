@@ -1,1 +1,1 @@
-alert("hihihihi");
+alert("github");
